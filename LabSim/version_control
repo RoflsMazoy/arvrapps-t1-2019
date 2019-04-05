@@ -1,0 +1,11 @@
+## Version Control
+
+-Final version will be Solution 1.0.0, probably
+
+-Major iterations can be marked down in the second digit, e.g. 0.1.1, 0.2.1 etc.
+
+-Minor iterations on third
+
+-Consider it a major iteration when completing a set task on the Trello board, minor when it's a part of the trello board tasks like spawning the ball, etc.
+
+-It'd be good to provide a changelog attached with each version with what changes you made
